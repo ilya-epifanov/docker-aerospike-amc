@@ -1,0 +1,1 @@
+# docker-aerospike-amc
